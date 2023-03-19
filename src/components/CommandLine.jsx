@@ -49,14 +49,15 @@ const CommandLine = () => {
                 output = `
 Note this project is still WIP and some commands may not be fully functional or up-to-date yet.
 
-about         About me
-help          Open this menu
-projects      View my projects
-resume        View my resume
-clear         Clear all lines
-email         Email me
-blog          Read my public diary
-website       How I built this`;
+about            About me
+help              Open this menu
+projects        View my projects
+resume         View my resume
+clear             Clear all lines
+email            Email me
+blog             Read my public diary
+website        How I built this`;
+
                 break;
             case "projects":
                 output = "List of projects...";
