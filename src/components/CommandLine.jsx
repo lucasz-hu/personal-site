@@ -60,7 +60,8 @@ website        How I built this`;
 
                 break;
             case "projects":
-                output = "List of projects...";
+                //make the output say hello world  and then add a link to the projects page
+                output = "Opening projects...";
                 break;
             case "resume":
                 output = "Opening resume...";
